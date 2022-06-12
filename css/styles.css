@@ -1,0 +1,127 @@
+.top{
+  background-color:#EAF6F6 ;
+}
+body{
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+}
+h1{
+  margin-top: 0;
+  padding: 50px 0 0 0;
+  font-family: "Parisienne",cursive;
+  font-size: 60px;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+h2{
+  color: #66BFBF;
+  font-family: "Cormorant Garamond",serif;
+  font-weight:bolder;
+  font-size: 30px;
+}
+.topcloud{
+  position: absolute;
+  left: 1000px;
+}
+.bottomcloud{
+  position: relative;
+  right: 150px;
+  bottom: 200px;
+}
+.skill-row{
+  margin: 50px auto 50px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.underline{
+  text-decoration: underline;
+}
+hr{
+  border-style: dotted none none none;
+  height:0;
+  border-width:5px;
+  width: 5%;
+  color: #7C99AC;
+}
+.Introduction{
+  padding-bottom: 20px;
+  font-family: "Amiri", serif;
+  font-size: 20px;
+}
+.profile-img{
+  width: 150px;
+  height: 150px;
+}
+.h2-of-my-skills{
+  margin:0;
+}
+.skills{
+  font-family: "Amiri", serif;
+  font-size: 20px;
+}
+.h3-skills{
+  font-size: 30px;
+}
+.code-img{
+  float: left;
+  width:150px;
+  height: 180px;
+}
+.sports-img{
+  float:right;
+  width:150px;
+  height: 180px;
+}
+.contact-para{
+  font-family: "Amiri", serif;
+  font-size: 20px;
+}
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Georgia;
+  color: #EAF6F6;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  padding-top: 50px;
+  background-color: #66BFBF;
+  margin:0;
+  padding-bottom: 50px;
+}
+.contact-me{
+  padding-bottom: 30px;
+}
+.link-para{
+  margin:0;
+}
+.footer-link{
+  font-family: "Amiri", serif;
+  font-size: 25px;
+}
+.middle-container{
+  margin: 50px 0;
+}
